@@ -1,0 +1,27 @@
+body{
+    padding:10px;
+    background-color: #BDEDE0;
+    
+}
+.card{
+    display: inline-block;
+    margin:5px;
+    padding: 5px;
+    background-color: #BBDBD1;
+    color:#4A5759;
+}
+.title{
+    font-size: 45px;
+}
+.razdel{
+    
+    font-size: 35px;
+}
+.store{
+    background-color: #0D6EFD ;
+    margin-left: 25px;
+}
+.system{
+    background-color:  #6C757D ;
+    margin-left: 25px;
+}
